@@ -92,6 +92,10 @@
 }
 
 @media (max-width: 760px) {
+    .featured {
+        height: 90vh;
+    }
+
     .featured--name {
         font-size: 40px;
     }
